@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/rafazseven/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/790409425801838613/793602129175904266/Instagram-Logo.png" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Atualmente programo em:</h3>
+<h3 align="left">Atualmente sei:</h3>
    
    ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
